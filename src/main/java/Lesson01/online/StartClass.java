@@ -12,6 +12,7 @@ public class StartClass {
     public static int test = 50;
 
     public static void main(String[] args) {
+
 //        System.out.println("Hello from JVM!!!");
 //        System.out.print("Hello from JVM!!!");
 
